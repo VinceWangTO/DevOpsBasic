@@ -5,11 +5,6 @@ pipeline {
     }
     stages {
         stage('Build') {
-            when {
-              expression {
-                CODE_CHANGES == true
-              }
-            }
             steps {
                 echo 'Building..'
             }
