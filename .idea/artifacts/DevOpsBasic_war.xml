@@ -7,7 +7,7 @@
         <packaging>war</packaging>
       </options>
     </properties>
-    <root id="archive" name="DevOpsBasic-1.0-SNAPSHOT.war">
+    <root id="archive" name="webapp.war">
       <element id="artifact" artifact-name="DevOpsBasic:war exploded" />
     </root>
   </artifact>

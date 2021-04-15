@@ -2,11 +2,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>JSP - Hello World</title>
+    <title>DevOps</title>
 </head>
 <body>
-<h2> Learn QA Automation tools + Devops Tools CI/CD pipelines in course from Scratch</h2>
-    <h3>Heng Wang</h3>
+<h2> Learn QA Automation tools + Devops Tools CI/CD pipelines</h2>
+<h3>Heng Wang</h3>
 
 <br/>
 
