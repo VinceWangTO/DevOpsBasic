@@ -5,7 +5,7 @@
     <title>DevOps</title>
 </head>
 <body>
-<h2>Learn Devops Tools CI/CD pipelines</h2>
+<h2>Learn Devops Tools CI/CD pipelines!</h2>
 <h3>Heng Wang</h3>
 
 <br/>
